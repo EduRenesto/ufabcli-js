@@ -1,0 +1,16 @@
+{
+  "name": "ufabcli",
+  "version": "1.0.0",
+  "description": "ufabcli implemented in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
